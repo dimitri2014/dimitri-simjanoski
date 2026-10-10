@@ -1,0 +1,86 @@
+{
+  "site": {
+    "url": "https://yourname.com",
+    "title": "Dimitri Simjanoski — engineering, mountain biking & more",
+    "description": "Hey! I'm Dimitri Simjanoski, an 11-year-old from Tampa Bay who loves engineering, mountain biking, space and computers. Check out what I'm building, my hobbies and my friends.",
+    "keywords": ["Dimitri Simjanoski", "Dimitri", "engineering", "mountain biking", "truss bridge", "personal website"],
+    "locale": "en_US",
+    "twitterHandle": "Ballrighttttttt"
+  },
+
+  "person": {
+    "name": "Dimitri Simjanoski",
+    "shortName": "DS",
+    "greeting": "Hey, I'm",
+    "headline": "11 years old, obsessed with engineering, and happiest on a mountain bike.",
+    "location": "Tampa Bay, FL",
+    "school": "Carlos E. Haile",
+    "graduationYear": 2030,
+    "email": "dimitrisimjanoski@gmail.com",
+    "currently": "building a skyscraper model for my engineering class"
+  },
+
+  "about": {
+    "paragraphs": [
+      "I'm Dimitri, I'm 11, and I'm obsessed with how things get built — bridges, skyscrapers, bikes, computers, all of it.",
+      "Right now I'm building a skyscraper model for my engineering class and learning how truss bridges work: why triangles are so strong, and how a few thin beams can hold way more weight than you'd think.",
+      "When I'm not doing that, I'm mountain biking (my real passion), playing soccer or basketball, gaming with my friends, or sleeping. Sleeping counts as a hobby."
+    ],
+    "facts": [
+      { "label": "Age", "value": "11" },
+      { "label": "Lives in", "value": "Tampa Bay" },
+      { "label": "Fluent in", "value": "MK + EN" },
+      { "label": "Pretty good at", "value": "DE" },
+      { "label": "Understands", "value": "SR / BS / HR" },
+      { "label": "Learning", "value": "Truss bridges" }
+    ]
+  },
+
+  "ticker": ["Mountain biking", "Engineering", "Football", "Basketball", "Space", "Computers", "Sleeping", "Spending money"],
+
+  "projects": [],
+
+  "achievements": [],
+
+  "interests": [
+    { "title": "Space", "description": "Rockets, planets, and everything out there." },
+    { "title": "Computers", "description": "How they work and what you can do with them." },
+    { "title": "Biking", "description": "Trails, jumps, and going as fast as I can." },
+    { "title": "Engineering", "description": "Bridges, skyscrapers, and how big things stay standing." }
+  ],
+
+  "hobbies": [
+    { "name": "Mountain biking", "note": "My passion" },
+    { "name": "Gaming", "note": "Usually with friends" },
+    { "name": "Playing soccer", "note": "Any time, anywhere" },
+    { "name": "Goofing around", "note": "With friends, professionally" }
+  ],
+
+  "favorites": [
+    { "label": "Games", "value": "Minecraft, Rainbow Six Siege, Rust, Elden Ring" },
+    { "label": "Food", "value": "Beef steak, medium rare" },
+    { "label": "Anime", "value": "Death Note" }
+  ],
+
+  "friendsIntro": "The crew. The people I bike, game, and goof around with.",
+  "friends": [
+    { "name": "Konstantin" },
+    { "name": "Nikola" },
+    { "name": "Ivan" },
+    { "name": "John" },
+    { "name": "JT" },
+    { "name": "Mason" }
+  ],
+
+  "contactIntro": "Wanna talk about bikes, engineering, or games? Say hi.",
+  "socials": [
+    { "platform": "GitHub", "handle": "dimitri2014", "url": "https://github.com/dimitri2014" },
+    { "platform": "TikTok", "handle": "@ParrotX2", "url": "https://tiktok.com/@ParrotX2" }
+  ],
+  "_comment" : [
+        { "platform": "Instagram", "handle": "@yourname", "url": "https://instagram.com/yourname" },
+    { "platform": "Discord", "handle": "yourname", "url": "https://discord.com/users/yourid" }
+
+  ]
+}
+
