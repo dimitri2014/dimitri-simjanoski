@@ -59,7 +59,8 @@
   "favorites": [
     { "label": "Games", "value": "Minecraft, Rainbow Six Siege, Rust, Elden Ring" },
     { "label": "Food", "value": "Beef steak, medium rare" },
-    { "label": "Anime", "value": "Death Note" }
+    { "label": "Anime", "value": "Death Note" },
+    { "label": "Movies", "value": "Interstellar" }
   ],
 
   "friendsIntro": "The crew. The people I bike, game, and goof around with.",

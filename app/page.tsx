@@ -325,7 +325,7 @@ export default function Home() {
             <a href={`mailto:${person.email}`} className="email">
               {person.email}
             </a>
-            {socials.length > 0 && (
+            {socials.length > 0 && ( 
               <ul className="socials">
                 {socials.map((s) => (
                   <li key={s.platform}>
