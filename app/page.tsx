@@ -127,7 +127,9 @@ export default function Home() {
       <main id="main">
         <section id="top" className="hero wrap" aria-label="Introduction">
           <div className="hero-text">
-            <p className="greeting">{person.greeting}</p>
+            <p className="greeting">
+              {person.greeting} <span aria-hidden="true">😊</span>
+            </p>
             <h1 className="hero-name">
               <span className="highlight">{person.name}</span>
             </h1>
