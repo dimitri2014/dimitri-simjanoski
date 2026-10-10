@@ -1,8 +1,8 @@
 {
   "site": {
-    "url": "https://yourname.com",
+    "url": "https://dimitri-simjanoski.vercel.app/",
     "title": "Dimitri Simjanoski — engineering, mountain biking & more",
-    "description": "Hello! I'm Dimitri Simjanoski, an 11-year-old from Tampa Bay who loves engineering, mountain biking, space and computers. Check out what I'm building, my hobbies and my friends.",
+    "description": "Hello! I'm Dimitri Simjanoski, an 11-year-old who loves engineering and mountain biking",
     "keywords": ["Dimitri Simjanoski", "Dimitri", "engineering", "mountain biking", "truss bridge", "personal website"],
     "locale": "en_US",
     "twitterHandle": "Ballrighttttttt"
